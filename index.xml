@@ -11,7 +11,7 @@
       </metadata>
       <version name="1.0" author="Etalon">
         <source main="main" file="Scripts/Etalon Scripts/Auto hide item envelopes/Etalon_Auto hide and restore take envelopes on small item under cursor.lua">https://github.com/EtalonBeats/EtalonScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/Etalon_Auto%20hide%20and%20restore%20take%20envelopes%20on%20small%20item%20under%20cursor.lua</source>
-        <source file="Scripts/Etalon Scripts/Auto hide item envelopes/Etalon_Auto hide and restore take envelopes on small item (set px threshold).lua">https://github.com/EtalonBeats/EtalonScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/Etalon_Auto%20hide%20and%20restore%20take%20envelopes%20on%20small%20item%20(set%20px%20threshold).lua</source>
+        <source main="main" file="Scripts/Etalon Scripts/Auto hide item envelopes/Etalon_Auto hide and restore take envelopes on small item (set px threshold).lua">https://github.com/EtalonBeats/EtalonScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/Etalon_Auto%20hide%20and%20restore%20take%20envelopes%20on%20small%20item%20(set%20px%20threshold).lua</source>
         <source file="Scripts/Etalon Scripts/Auto hide item envelopes/autohide_config.txt">https://github.com/EtalonBeats/EtalonScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/autohide_config.txt</source>
       </version>
     </reapack>
