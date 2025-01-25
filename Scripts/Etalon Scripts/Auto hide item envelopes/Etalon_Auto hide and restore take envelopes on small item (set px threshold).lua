@@ -2,6 +2,7 @@
 -- @author Etalon
 -- @version 1.0
 -- @about Change height threshold for auto-hiding envelopes
+-- @noindex false
 
 local script_path = debug.getinfo(1,'S').source:match([[^@?(.*[\\/])[^\\/]-$]])
 local retval, height = reaper.GetUserInputs("Auto Hide Envelope Settings", 1, "Minimum height (px):", "28")
