@@ -6,7 +6,7 @@ Collection of REAPER scripts by Etalon.
 1. Install [ReaPack](https://reapack.com/)
 2. Run this action:
    ReaPack: Import repositories...
-3. Add this repository to ReaPack:
+3. Copy and Paste this repository to ReaPack:
    https://github.com/EtalonBeats/Etalon-Scripts/raw/main/index.xml
 4. Run this action:
    ReaPack: Browse packages...
