@@ -11,6 +11,7 @@ Collection of REAPER scripts by Etalon.
 4. Run this action:
    **ReaPack: Browse packages...**
 5. Search "**Etalon**" to find my scripts.
+6. Right click script name -> Install -> Apply
 
 ## Scripts
 ### To be added here...
