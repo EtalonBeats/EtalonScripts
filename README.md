@@ -4,7 +4,7 @@ Collection of REAPER scripts by Etalon.
 
 ## Installation
 1. Install [ReaPack](https://reapack.com/)
-2. Run this action in Reaper:
+2. Run the following action in Reaper:
    **ReaPack: Import repositories...**
 3. Copy and Paste this repository to ReaPack:
    https://github.com/EtalonBeats/Etalon-Scripts/raw/main/index.xml
