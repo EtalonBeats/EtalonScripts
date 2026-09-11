@@ -8,7 +8,4 @@ Collection of REAPER scripts by Etalon.
 3. Browse and install scripts through ReaPack
 
 ## Scripts
-### Auto hide item envelopes
-- Automatically hides take envelopes when items become too small
-- Restores envelopes when item height increases
-- Configurable height threshold
+### To be added here...
